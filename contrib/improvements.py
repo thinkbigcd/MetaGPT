@@ -12,3 +12,9 @@ def util_1():
     """utility function 1"""
     # added 2024-08-05
     return 1
+
+
+def util_2():
+    """utility function 2"""
+    # added 2024-08-05
+    return 2
